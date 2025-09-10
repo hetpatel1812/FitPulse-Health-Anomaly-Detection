@@ -1,0 +1,502 @@
+[
+    {
+        "SleepHours": 2.0,
+        "HeartRate": 80,
+        "Steps": 12334
+    },
+    {
+        "SleepHours": 4.3,
+        "HeartRate": 74,
+        "Steps": 11507
+    },
+    {
+        "SleepHours": 9.6,
+        "HeartRate": 79,
+        "Steps": 14706
+    },
+    {
+        "SleepHours": 8.2,
+        "HeartRate": 62,
+        "Steps": 7612
+    },
+    {
+        "SleepHours": 8.7,
+        "HeartRate": 92,
+        "Steps": 7945
+    },
+    {
+        "SleepHours": 7.5,
+        "HeartRate": 51,
+        "Steps": 5149
+    },
+    {
+        "SleepHours": 7.2,
+        "HeartRate": 95,
+        "Steps": 15162
+    },
+    {
+        "SleepHours": 6.8,
+        "HeartRate": 67,
+        "Steps": 17042
+    },
+    {
+        "SleepHours": 9.0,
+        "HeartRate": 89,
+        "Steps": 5955
+    },
+    {
+        "SleepHours": 4.7,
+        "HeartRate": 67,
+        "Steps": 17385
+    },
+    {
+        "SleepHours": 4.3,
+        "HeartRate": 91,
+        "Steps": 8872
+    },
+    {
+        "SleepHours": 4.1,
+        "HeartRate": 55,
+        "Steps": 17881
+    },
+    {
+        "SleepHours": 9.6,
+        "HeartRate": 75,
+        "Steps": 15288
+    },
+    {
+        "SleepHours": 4.2,
+        "HeartRate": 60,
+        "Steps": 4816
+    },
+    {
+        "SleepHours": 7.9,
+        "HeartRate": 78,
+        "Steps": 17560
+    },
+    {
+        "SleepHours": 8.7,
+        "HeartRate": 67,
+        "Steps": 19435
+    },
+    {
+        "SleepHours": 4.1,
+        "HeartRate": 61,
+        "Steps": 10338
+    },
+    {
+        "SleepHours": 4.4,
+        "HeartRate": 82,
+        "Steps": 1867
+    },
+    {
+        "SleepHours": 6.5,
+        "HeartRate": 97,
+        "Steps": 9788
+    },
+    {
+        "SleepHours": 5.9,
+        "HeartRate": 94,
+        "Steps": 10206
+    },
+    {
+        "SleepHours": 5.2,
+        "HeartRate": 63,
+        "Steps": 2925
+    },
+    {
+        "SleepHours": 9.3,
+        "HeartRate": 56,
+        "Steps": 5514
+    },
+    {
+        "SleepHours": 8.9,
+        "HeartRate": 92,
+        "Steps": 15960
+    },
+    {
+        "SleepHours": 4.3,
+        "HeartRate": 97,
+        "Steps": 6281
+    },
+    {
+        "SleepHours": 6.1,
+        "HeartRate": 64,
+        "Steps": 4045
+    },
+    {
+        "SleepHours": 9.3,
+        "HeartRate": 56,
+        "Steps": 10695
+    },
+    {
+        "SleepHours": 7.6,
+        "HeartRate": 70,
+        "Steps": 2857
+    },
+    {
+        "SleepHours": 4.5,
+        "HeartRate": 82,
+        "Steps": 2379
+    },
+    {
+        "SleepHours": 8.4,
+        "HeartRate": 83,
+        "Steps": 8660
+    },
+    {
+        "SleepHours": 7.3,
+        "HeartRate": 68,
+        "Steps": 4811
+    },
+    {
+        "SleepHours": 4.7,
+        "HeartRate": 75,
+        "Steps": 10820
+    },
+    {
+        "SleepHours": 7.8,
+        "HeartRate": 77,
+        "Steps": 2289
+    },
+    {
+        "SleepHours": 6.3,
+        "HeartRate": 74,
+        "Steps": 12304
+    },
+    {
+        "SleepHours": 5.1,
+        "HeartRate": 97,
+        "Steps": 8649
+    },
+    {
+        "SleepHours": 7.8,
+        "HeartRate": 92,
+        "Steps": 15810
+    },
+    {
+        "SleepHours": 9.6,
+        "HeartRate": 50,
+        "Steps": 12693
+    },
+    {
+        "SleepHours": 8.4,
+        "HeartRate": 56,
+        "Steps": 11678
+    },
+    {
+        "SleepHours": 4.9,
+        "HeartRate": 82,
+        "Steps": 3408
+    },
+    {
+        "SleepHours": 5.1,
+        "HeartRate": 83,
+        "Steps": 10884
+    },
+    {
+        "SleepHours": 6.2,
+        "HeartRate": 53,
+        "Steps": 3050
+    },
+    {
+        "SleepHours": 6.8,
+        "HeartRate": 91,
+        "Steps": 15823
+    },
+    {
+        "SleepHours": 7.2,
+        "HeartRate": 59,
+        "Steps": 19758
+    },
+    {
+        "SleepHours": 5.8,
+        "HeartRate": 97,
+        "Steps": 5544
+    },
+    {
+        "SleepHours": 8.7,
+        "HeartRate": 71,
+        "Steps": 14016
+    },
+    {
+        "SleepHours": 5.2,
+        "HeartRate": 96,
+        "Steps": 14978
+    },
+    {
+        "SleepHours": 9.3,
+        "HeartRate": 100,
+        "Steps": 7974
+    },
+    {
+        "SleepHours": 5.3,
+        "HeartRate": 87,
+        "Steps": 15989
+    },
+    {
+        "SleepHours": 7.0,
+        "HeartRate": 62,
+        "Steps": 9546
+    },
+    {
+        "SleepHours": 7.2,
+        "HeartRate": 65,
+        "Steps": 11639
+    },
+    {
+        "SleepHours": 5.8,
+        "HeartRate": 98,
+        "Steps": 3916
+    },
+    {
+        "SleepHours": 5.1,
+        "HeartRate": 99,
+        "Steps": 2930
+    },
+    {
+        "SleepHours": 5.2,
+        "HeartRate": 77,
+        "Steps": 5828
+    },
+    {
+        "SleepHours": 8.6,
+        "HeartRate": 65,
+        "Steps": 12217
+    },
+    {
+        "SleepHours": 5.3,
+        "HeartRate": 77,
+        "Steps": 3900
+    },
+    {
+        "SleepHours": 8.5,
+        "HeartRate": 86,
+        "Steps": 12394
+    },
+    {
+        "SleepHours": 4.2,
+        "HeartRate": 93,
+        "Steps": 2198
+    },
+    {
+        "SleepHours": 5.4,
+        "HeartRate": 81,
+        "Steps": 6186
+    },
+    {
+        "SleepHours": 8.6,
+        "HeartRate": 59,
+        "Steps": 16503
+    },
+    {
+        "SleepHours": 7.7,
+        "HeartRate": 95,
+        "Steps": 5464
+    },
+    {
+        "SleepHours": 7.0,
+        "HeartRate": 50,
+        "Steps": 7299
+    },
+    {
+        "SleepHours": 4.3,
+        "HeartRate": 94,
+        "Steps": 13052
+    },
+    {
+        "SleepHours": 9.9,
+        "HeartRate": 87,
+        "Steps": 12462
+    },
+    {
+        "SleepHours": 6.7,
+        "HeartRate": 57,
+        "Steps": 9215
+    },
+    {
+        "SleepHours": 8.9,
+        "HeartRate": 87,
+        "Steps": 10753
+    },
+    {
+        "SleepHours": 8.9,
+        "HeartRate": 89,
+        "Steps": 14758
+    },
+    {
+        "SleepHours": 8.4,
+        "HeartRate": 94,
+        "Steps": 1854
+    },
+    {
+        "SleepHours": 6.9,
+        "HeartRate": 73,
+        "Steps": 10756
+    },
+    {
+        "SleepHours": 5.6,
+        "HeartRate": 96,
+        "Steps": 13648
+    },
+    {
+        "SleepHours": 5.5,
+        "HeartRate": 51,
+        "Steps": 5963
+    },
+    {
+        "SleepHours": 6.7,
+        "HeartRate": 76,
+        "Steps": 4120
+    },
+    {
+        "SleepHours": 7.2,
+        "HeartRate": 99,
+        "Steps": 15682
+    },
+    {
+        "SleepHours": 5.2,
+        "HeartRate": 87,
+        "Steps": 11794
+    },
+    {
+        "SleepHours": 8.3,
+        "HeartRate": 81,
+        "Steps": 9087
+    },
+    {
+        "SleepHours": 7.8,
+        "HeartRate": 94,
+        "Steps": 1990
+    },
+    {
+        "SleepHours": 8.2,
+        "HeartRate": 61,
+        "Steps": 8996
+    },
+    {
+        "SleepHours": 8.6,
+        "HeartRate": 65,
+        "Steps": 2504
+    },
+    {
+        "SleepHours": 9.7,
+        "HeartRate": 58,
+        "Steps": 2198
+    },
+    {
+        "SleepHours": 6.8,
+        "HeartRate": 55,
+        "Steps": 11438
+    },
+    {
+        "SleepHours": 8.2,
+        "HeartRate": 94,
+        "Steps": 11610
+    },
+    {
+        "SleepHours": 9.9,
+        "HeartRate": 75,
+        "Steps": 12344
+    },
+    {
+        "SleepHours": 6.9,
+        "HeartRate": 86,
+        "Steps": 19843
+    },
+    {
+        "SleepHours": 9.4,
+        "HeartRate": 90,
+        "Steps": 2339
+    },
+    {
+        "SleepHours": 6.7,
+        "HeartRate": 92,
+        "Steps": 2088
+    },
+    {
+        "SleepHours": 9.3,
+        "HeartRate": 83,
+        "Steps": 7302
+    },
+    {
+        "SleepHours": 4.4,
+        "HeartRate": 56,
+        "Steps": 9349
+    },
+    {
+        "SleepHours": 8.5,
+        "HeartRate": 87,
+        "Steps": 16828
+    },
+    {
+        "SleepHours": 5.2,
+        "HeartRate": 59,
+        "Steps": 4085
+    },
+    {
+        "SleepHours": 4.4,
+        "HeartRate": 71,
+        "Steps": 1224
+    },
+    {
+        "SleepHours": 7.7,
+        "HeartRate": 74,
+        "Steps": 10681
+    },
+    {
+        "SleepHours": 9.0,
+        "HeartRate": 54,
+        "Steps": 12780
+    },
+    {
+        "SleepHours": 7.0,
+        "HeartRate": 72,
+        "Steps": 5672
+    },
+    {
+        "SleepHours": 9.6,
+        "HeartRate": 65,
+        "Steps": 12422
+    },
+    {
+        "SleepHours": 5.3,
+        "HeartRate": 88,
+        "Steps": 12533
+    },
+    {
+        "SleepHours": 7.6,
+        "HeartRate": 56,
+        "Steps": 18782
+    },
+    {
+        "SleepHours": 7.0,
+        "HeartRate": 65,
+        "Steps": 6496
+    },
+    {
+        "SleepHours": 4.8,
+        "HeartRate": 51,
+        "Steps": 6658
+    },
+    {
+        "SleepHours": 9.3,
+        "HeartRate": 60,
+        "Steps": 3068
+    },
+    {
+        "SleepHours": 4.5,
+        "HeartRate": 52,
+        "Steps": 15539
+    },
+    {
+        "SleepHours": 9.4,
+        "HeartRate": 79,
+        "Steps": 4306
+    },
+    {
+        "SleepHours": 4.5,
+        "HeartRate": 99,
+        "Steps": 9844
+    }
+]
