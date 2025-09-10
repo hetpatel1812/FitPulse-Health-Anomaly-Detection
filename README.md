@@ -40,5 +40,4 @@ FitPulse is a health anomaly detection system that processes **fitness tracker d
 
 ---
 
-## 📂 Project Structure  
 
