@@ -11,7 +11,7 @@ FitPulse is a health anomaly detection system that processes **fitness tracker d
 - Clean timestamps, fix missing values, and align time intervals.  
 
 ### 🔹 Feature Extraction & Modeling  
-- Extract statistical features using **[TSFresh](https://tsfresh.readthedocs.io/)**.  
+- Extract statistical features using TSFresh.
 - Use **Facebook Prophet** to model seasonal trends and detect deviations.  
 - Apply clustering algorithms (**KMeans, DBSCAN**) to group behaviors.  
 
