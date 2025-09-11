@@ -1,56 +1,43 @@
-# Infosys Springboard – Python Programming Internship
+# 🩺 FitPulse: Health Anomaly Detection from Fitness Devices  
 
-## 📌 Introduction
-This repository contains the work completed as part of my **Python Programming Internship with Infosys Springboard**.  
-The internship focused on building strong foundations in Python programming, applying problem-solving techniques, and developing real-world projects that demonstrate the use of Python in data handling, automation, and application development.
+FitPulse is a health anomaly detection system that processes **fitness tracker data** (heart rate, steps, and sleep) to identify unusual patterns and provide insights into user behavior.  
 
 ---
 
-## 📑 Table of Contents
-1. [Learning Objectives](#-learning-objectives)  
-2. [Technologies Used](#-technologies-used)  
-3. [Projects & Modules](#-projects--modules)  
-4. [Installation](#-installation)  
-5. [Usage](#-usage)  
-6. [Screenshots / Examples](#-screenshots--examples)  
-7. [Key Learnings](#-key-learnings)  
-8. [Acknowledgements](#-acknowledgements)  
-9. [License](#-license)  
+## 🚀 Features  
+
+### 🔹 Data Collection & Preprocessing  
+- Import heart rate, steps, and sleep data from **CSV/JSON**.  
+- Clean timestamps, fix missing values, and align time intervals.  
+
+### 🔹 Feature Extraction & Modeling  
+- Extract statistical features using TSFresh.
+- Use **Facebook Prophet** to model seasonal trends and detect deviations.  
+- Apply clustering algorithms (**KMeans, DBSCAN**) to group behaviors.  
+
+### 🔹 Anomaly Detection & Visualization  
+- **Rule-based anomalies** (e.g., thresholds on HR, steps).  
+- **Model-based anomalies** (residual errors, clustering outliers).  
+- Visualizations with **Matplotlib** & **Plotly**.  
+
+### 🔹 Dashboard for Insights  
+- Interactive dashboard built with **Streamlit**.  
+- Upload fitness tracker files, run anomaly detection, and visualize results.  
+- Export reports to **PDF/CSV**.  
 
 ---
 
-## 🎯 Learning Objectives
-- Strengthen Python programming concepts.  
-- Work with **data structures** (lists, tuples, dictionaries, sets).  
-- Implement **object-oriented programming (OOP)**.  
-- Explore **file handling, modules, and exceptions**.  
-- Apply Python for **data analysis, visualization, and automation**.  
-- Build and showcase **end-to-end projects**.  
+## 🛠️ Tools & Technologies  
+
+- **Python** – main programming language.  
+- **Libraries**:  
+  - Data: `pandas`, `numpy`  
+  - Visualization: `matplotlib`, `plotly`  
+  - ML/Stats: `scikit-learn`, `tsfresh`, `prophet`  
+- **Clustering Algorithms**: KMeans, DBSCAN  
+- **Streamlit** – interactive web app  
+- **Data Formats**: CSV, JSON  
 
 ---
 
-## 🛠 Technologies Used
-- **Language**: Python 3.x  
-- **Libraries/Tools** (depending on projects):  
-  - NumPy, Pandas → Data manipulation  
-  - Matplotlib, Seaborn → Visualization  
-  - Flask/Streamlit → Simple applications  
-  - Jupyter Notebook / VS Code → Development  
 
----
-
-## 📂 Projects & Modules
-Some of the key modules/projects completed during the internship include:  
-- ✅ **Python Basics** – Syntax, loops, conditionals, functions  
-- ✅ **Data Structures & OOP** – Classes, objects, inheritance, polymorphism  
-- ✅ **Data Handling** – File I/O, CSV/JSON handling  
-- ✅ **Mini Projects** – e.g., calculator app, student record system, or expense tracker  
-- ✅ **Capstone Project** – *(Add the title of your final project here)*  
-
----
-
-## ⚙️ Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/infosys-springboard-python.git
-   cd infosys-springboard-python
