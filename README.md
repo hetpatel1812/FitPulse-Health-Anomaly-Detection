@@ -41,11 +41,4 @@ It also provides an **interactive dashboard** to explore anomalies and export re
 
 ---
 
-## ⚙️ Installation  
 
-Clone this repository and install dependencies:  
-
-```bash
-git clone https://github.com/your-username/fitpulse.git
-cd fitpulse
-pip install -r requirements.txt
