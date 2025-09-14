@@ -1,6 +1,35 @@
 # 🩺 FitPulse: Health Anomaly Detection from Fitness Devices  
 
-FitPulse is a health anomaly detection system that processes **fitness tracker data** (heart rate, steps, and sleep) to identify unusual patterns and provide insights into user behavior.  
+**FitPulse** is a Python-based health anomaly detection system developed as part of the **Infosys Springboard Internship Program** (Python Programming Domain).  
+It processes **fitness tracker data** (heart rate, steps, and sleep) to identify unusual patterns and provide meaningful health insights.  
+
+---
+
+## 📑 Table of Contents  
+1. [Introduction](#introduction)  
+2. [Features](#features)  
+3. [Installation](#installation)  
+4. [Usage](#usage)  
+5. [Configuration](#configuration)  
+6. [Dependencies](#dependencies)  
+7. [Examples](#examples)  
+8. [Troubleshooting](#troubleshooting)  
+9. [Contributors](#contributors)  
+10. [Author](#author)  
+11. [License](#license)  
+
+---
+
+## 🔎 Introduction  
+
+Fitness devices collect large amounts of health data, but interpreting it manually can be challenging.  
+**FitPulse** applies **data preprocessing, feature extraction, anomaly detection, and visualization** to highlight unusual behavior in:  
+
+- Heart Rate  
+- Step Count  
+- Sleep Patterns  
+
+It also provides an **interactive dashboard** to explore anomalies and export reports.  
 
 ---
 
@@ -8,36 +37,30 @@ FitPulse is a health anomaly detection system that processes **fitness tracker d
 
 ### 🔹 Data Collection & Preprocessing  
 - Import heart rate, steps, and sleep data from **CSV/JSON**.  
-- Clean timestamps, fix missing values, and align time intervals.  
+- Clean timestamps, handle missing values, and align intervals.  
 
 ### 🔹 Feature Extraction & Modeling  
-- Extract statistical features using TSFresh.
-- Use **Facebook Prophet** to model seasonal trends and detect deviations.  
-- Apply clustering algorithms (**KMeans, DBSCAN**) to group behaviors.  
+- Extract statistical features with **TSFresh**.  
+- Model seasonal trends with **Facebook Prophet**.  
+- Cluster behaviors using **KMeans** and **DBSCAN**.  
 
 ### 🔹 Anomaly Detection & Visualization  
-- **Rule-based anomalies** (e.g., thresholds on HR, steps).  
-- **Model-based anomalies** (residual errors, clustering outliers).  
-- Visualizations with **Matplotlib** & **Plotly**.  
+- Rule-based anomalies (thresholds on HR, steps).  
+- Model-based anomalies (residual errors, clustering outliers).  
+- Visualize patterns with **Matplotlib** & **Plotly**.  
 
 ### 🔹 Dashboard for Insights  
-- Interactive dashboard built with **Streamlit**.  
-- Upload fitness tracker files, run anomaly detection, and visualize results.  
-- Export reports to **PDF/CSV**.  
+- Built with **Streamlit**.  
+- Upload fitness data, run detection, and view results.  
+- Export reports to **CSV/PDF**.  
 
 ---
 
-## 🛠️ Tools & Technologies  
+## ⚙️ Installation  
 
-- **Python** – main programming language.  
-- **Libraries**:  
-  - Data: `pandas`, `numpy`  
-  - Visualization: `matplotlib`, `plotly`  
-  - ML/Stats: `scikit-learn`, `tsfresh`, `prophet`  
-- **Clustering Algorithms**: KMeans, DBSCAN  
-- **Streamlit** – interactive web app  
-- **Data Formats**: CSV, JSON  
+Clone this repository and install dependencies:  
 
----
-
-
+```bash
+git clone https://github.com/your-username/fitpulse.git
+cd fitpulse
+pip install -r requirements.txt
