@@ -5,21 +5,6 @@ It processes **fitness tracker data** (heart rate, steps, and sleep) to identify
 
 ---
 
-## 📑 Table of Contents  
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Configuration](#configuration)  
-6. [Dependencies](#dependencies)  
-7. [Examples](#examples)  
-8. [Troubleshooting](#troubleshooting)  
-9. [Contributors](#contributors)  
-10. [Author](#author)  
-11. [License](#license)  
-
----
-
 ## 🔎 Introduction  
 
 Fitness devices collect large amounts of health data, but interpreting it manually can be challenging.  
