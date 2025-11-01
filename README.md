@@ -126,9 +126,7 @@ FitPulse/
 ├── mainapp.py                # Streamlit app main file
 ├── requirements.txt          # Dependencies
 ├── data/                     # Sample data files (CSV/JSON)
-├── reports/                  # Generated reports
 ├── assets/                   # Images, diagrams, and snapshots
-├── models/                   # ML model definitions
 └── README.md                 # Project documentation
 ```
 
