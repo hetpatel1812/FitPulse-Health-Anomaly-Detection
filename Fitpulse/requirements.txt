@@ -1,0 +1,23 @@
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+plotly==5.22.0
+scikit-learn==1.5.1
+tsfresh==0.20.1
+prophet==1.1.5
+
+# Dashboard Framework
+streamlit==1.37.0
+
+# Data Processing & Utils
+seaborn==0.13.2
+scipy==1.13.0
+joblib==1.4.2
+
+# Exporting Reports
+openpyxl==3.1.4
+reportlab==4.2.0
+
+# Optional Tools
+tqdm==4.66.4
