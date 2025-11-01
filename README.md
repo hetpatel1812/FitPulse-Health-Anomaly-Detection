@@ -69,7 +69,7 @@ User Upload → Data Preprocessing → Feature Extraction → ML Models (Isolati
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/hetpatel1812/FitPulse.git
+git clone https://github.com/hetpatel1812/FitPulse-Health-Anomaly-Detection.git
 cd FitPulse
 ```
 
