@@ -94,10 +94,9 @@ streamlit run mainapp.py
 ### 📊 Sample Visuals
 | Dashboard Page | Description |
 |----------------|-------------|
-| ![Dashboard1](https://via.placeholder.com/300x180.png?text=Dashboard+Upload) | Upload data & start analysis |
+| ![Dashboard1](https://github.com/hetpatel1812/FitPulse-Health-Anomaly-Detection/blob/main/Fitpulse/assets/Upload%20data%20%26%20start%20analysis.png) | Upload data & start analysis |
 | ![Dashboard2](https://via.placeholder.com/300x180.png?text=Anomaly+Detection) | View anomaly detections |
 | ![Dashboard3](https://via.placeholder.com/300x180.png?text=Clusters+Visualization) | Clustered behavior patterns |
-| ![Dashboard4](https://via.placeholder.com/300x180.png?text=Report+Summary) | Export summary reports |
 
 ---
 
