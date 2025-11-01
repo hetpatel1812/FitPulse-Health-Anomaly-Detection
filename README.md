@@ -127,6 +127,7 @@ FitPulse/
 ├── requirements.txt          # Dependencies
 ├── data/                     # Sample data files (CSV/JSON)
 ├── assets/                   # Images, diagrams, and snapshots
+├── License
 └── README.md                 # Project documentation
 ```
 
