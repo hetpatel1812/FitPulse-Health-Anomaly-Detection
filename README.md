@@ -9,8 +9,7 @@
 
 ## 📘 Overview
 
-**FitPulse** is an **AI-powered health anomaly detection system** designed to analyze data collected from fitness trackers such as heart rate, steps, and sleep duration.  
-It uses **machine learning algorithms** to detect irregular health patterns and provides **interactive visual dashboards** to monitor daily trends.
+**FitPulse** is a **machine-learning–based health anomaly detection system** designed to analyze data collected from fitness trackers such as heart rate, steps, and sleep duration. It uses **machine learning algorithms** to identify irregular health patterns and provides interactive **visual dashboards** to help users monitor daily trends.
 
 The goal of FitPulse is to help users **understand their health data**, **identify anomalies early**, and **encourage proactive wellness management**.
 
