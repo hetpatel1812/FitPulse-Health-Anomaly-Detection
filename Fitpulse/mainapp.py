@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import IsolationForest
 import json
 import io
-
+   
 # Page Configuration
 st.set_page_config(
     page_title="FitPulse - Health Anomaly Detection",
